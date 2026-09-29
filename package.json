@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "mongoose": "^8.24.4",
+    "multer": "^2.4.0",
+    "ws": "^8.21.3",
+    "xlsx": "^0.18.5"
+  }
+}
