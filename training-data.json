@@ -1,0 +1,682 @@
+[
+    {
+        "id": 1,
+        "rooms": 6,
+        "size": 152,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 5267731
+    },
+    {
+        "id": 2,
+        "rooms": 4,
+        "size": 140,
+        "city": "Haifa",
+        "type": "למכירה",
+        "price": 4045194
+    },
+    {
+        "id": 3,
+        "rooms": 5,
+        "size": 107,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 5219869
+    },
+    {
+        "id": 4,
+        "rooms": 5,
+        "size": 131,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 5290883
+    },
+    {
+        "id": 5,
+        "rooms": 3,
+        "size": 127,
+        "city": "Tel Aviv",
+        "type": "למכירה",
+        "price": 6054277
+    },
+    {
+        "id": 6,
+        "rooms": 6,
+        "size": 148,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 5614536
+    },
+    {
+        "id": 7,
+        "rooms": 5,
+        "size": 109,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 4981362
+    },
+    {
+        "id": 8,
+        "rooms": 5,
+        "size": 88,
+        "city": "Haifa",
+        "type": "למכירה",
+        "price": 3522437
+    },
+    {
+        "id": 9,
+        "rooms": 4,
+        "size": 117,
+        "city": "Tel Aviv",
+        "type": "למכירה",
+        "price": 5963443
+    },
+    {
+        "id": 10,
+        "rooms": 2,
+        "size": 93,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 4253804
+    },
+    {
+        "id": 11,
+        "rooms": 4,
+        "size": 72,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 4604722
+    },
+    {
+        "id": 12,
+        "rooms": 5,
+        "size": 96,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 4764017
+    },
+    {
+        "id": 13,
+        "rooms": 5,
+        "size": 93,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 4720519
+    },
+    {
+        "id": 14,
+        "rooms": 5,
+        "size": 107,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 4830558
+    },
+    {
+        "id": 15,
+        "rooms": 5,
+        "size": 133,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 5357821
+    },
+    {
+        "id": 16,
+        "rooms": 6,
+        "size": 140,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 5192765
+    },
+    {
+        "id": 17,
+        "rooms": 3,
+        "size": 70,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 4068950
+    },
+    {
+        "id": 18,
+        "rooms": 3,
+        "size": 123,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 4721542
+    },
+    {
+        "id": 19,
+        "rooms": 2,
+        "size": 57,
+        "city": "Haifa",
+        "type": "למכירה",
+        "price": 2738773
+    },
+    {
+        "id": 20,
+        "rooms": 3,
+        "size": 105,
+        "city": "Tel Aviv",
+        "type": "למכירה",
+        "price": 5490305
+    },
+    {
+        "id": 21,
+        "rooms": 3,
+        "size": 98,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 4267316
+    },
+    {
+        "id": 22,
+        "rooms": 5,
+        "size": 102,
+        "city": "Tel Aviv",
+        "type": "למכירה",
+        "price": 5887267
+    },
+    {
+        "id": 23,
+        "rooms": 5,
+        "size": 97,
+        "city": "Haifa",
+        "type": "למכירה",
+        "price": 3829377
+    },
+    {
+        "id": 24,
+        "rooms": 4,
+        "size": 102,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 4778059
+    },
+    {
+        "id": 25,
+        "rooms": 4,
+        "size": 97,
+        "city": "Haifa",
+        "type": "למכירה",
+        "price": 3312659
+    },
+    {
+        "id": 26,
+        "rooms": 6,
+        "size": 78,
+        "city": "Tel Aviv",
+        "type": "למכירה",
+        "price": 5878391
+    },
+    {
+        "id": 27,
+        "rooms": 3,
+        "size": 83,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 4276971
+    },
+    {
+        "id": 28,
+        "rooms": 4,
+        "size": 56,
+        "city": "Tel Aviv",
+        "type": "למכירה",
+        "price": 5470690
+    },
+    {
+        "id": 29,
+        "rooms": 4,
+        "size": 114,
+        "city": "Jerusalem",
+        "type": "למכירה",
+        "price": 4486820
+    },
+    {
+        "id": 30,
+        "rooms": 4,
+        "size": 151,
+        "city": "Ramat Gan",
+        "type": "למכירה",
+        "price": 5090291
+    },
+    {
+        "id": 31,
+        "rooms": 1,
+        "size": 82,
+        "city": "Ramat Gan",
+        "type": "להשכרה",
+        "price": 8077
+    },
+    {
+        "id": 32,
+        "rooms": 2,
+        "size": 47,
+        "city": "Jerusalem",
+        "type": "להשכרה",
+        "price": 6806
+    },
+    {
+        "id": 33,
+        "rooms": 5,
+        "size": 42,
+        "city": "Ramat Gan",
+        "type": "להשכרה",
+        "price": 8520
+    },
+    {
+        "id": 34,
+        "rooms": 5,
+        "size": 109,
+        "city": "Ramat Gan",
+        "type": "להשכרה",
+        "price": 10685
+    },
+    {
+        "id": 35,
+        "rooms": 2,
+        "size": 40,
+        "city": "Haifa",
+        "type": "להשכרה",
+        "price": 5092
+    },
+    {
+        "id": 36,
+        "rooms": 2,
+        "size": 107,
+        "city": "Haifa",
+        "type": "להשכרה",
+        "price": 6420
+    },
+    {
+        "id": 37,
+        "rooms": 5,
+        "size": 40,
+        "city": "Haifa",
+        "type": "להשכרה",
+        "price": 6759
+    },
+    {
+        "id": 38,
+        "rooms": 1,
+        "size": 41,
+        "city": "Jerusalem",
+        "type": "להשכרה",
+        "price": 6320
+    },
+    {
+        "id": 39,
+        "rooms": 2,
+        "size": 107,
+        "city": "Jerusalem",
+        "type": "להשכרה",
+        "price": 8333
+    },
+    {
+        "id": 40,
+        "rooms": 3,
+        "size": 34,
+        "city": "Tel Aviv",
+        "type": "להשכרה",
+        "price": 8575
+    },
+    {
+        "id": 41,
+        "rooms": 2,
+        "size": 31,
+        "city": "Jerusalem",
+        "type": "להשכרה",
+        "price": 5909
+    },
+    {
+        "id": 42,
+        "rooms": 3,
+        "size": 49,
+        "city": "Ramat Gan",
+        "type": "להשכרה",
+        "price": 7826
+    },
+    {
+        "id": 43,
+        "rooms": 3,
+        "size": 86,
+        "city": "Jerusalem",
+        "type": "להשכרה",
+        "price": 7431
+    },
+    {
+        "id": 44,
+        "rooms": 1,
+        "size": 74,
+        "city": "Haifa",
+        "type": "להשכרה",
+        "price": 5919
+    },
+    {
+        "id": 45,
+        "rooms": 4,
+        "size": 112,
+        "city": "Ramat Gan",
+        "type": "להשכרה",
+        "price": 10768
+    },
+    {
+        "id": 46,
+        "rooms": 1,
+        "size": 94,
+        "city": "Haifa",
+        "type": "להשכרה",
+        "price": 6492
+    },
+    {
+        "id": 47,
+        "rooms": 3,
+        "size": 101,
+        "city": "Tel Aviv",
+        "type": "להשכרה",
+        "price": 10695
+    },
+    {
+        "id": 48,
+        "rooms": 3,
+        "size": 53,
+        "city": "Jerusalem",
+        "type": "להשכרה",
+        "price": 7593
+    },
+    {
+        "id": 49,
+        "rooms": 5,
+        "size": 51,
+        "city": "Tel Aviv",
+        "type": "להשכרה",
+        "price": 10552
+    },
+    {
+        "id": 50,
+        "rooms": 5,
+        "size": 63,
+        "city": "Haifa",
+        "type": "להשכרה",
+        "price": 7759
+    },
+    {
+        "id": 51,
+        "rooms": 2,
+        "size": 93,
+        "city": "Ramat Gan",
+        "type": "להשכרה",
+        "price": 8510
+    },
+    {
+        "id": 52,
+        "rooms": 3,
+        "size": 58,
+        "city": "Haifa",
+        "type": "להשכרה",
+        "price": 6949
+    },
+    {
+        "id": 53,
+        "rooms": 4,
+        "size": 118,
+        "city": "Ramat Gan",
+        "type": "להשכרה",
+        "price": 10284
+    },
+    {
+        "id": 54,
+        "rooms": 4,
+        "size": 103,
+        "city": "Tel Aviv",
+        "type": "להשכרה",
+        "price": 11122
+    },
+    {
+        "id": 55,
+        "rooms": 5,
+        "size": 58,
+        "city": "Tel Aviv",
+        "type": "להשכרה",
+        "price": 11234
+    },
+    {
+        "id": 56,
+        "rooms": 3,
+        "size": 81,
+        "city": "Ashdod",
+        "type": "למכירה",
+        "price": 3925434
+    },
+    {
+        "id": 57,
+        "rooms": 4,
+        "size": 114,
+        "city": "Ashdod",
+        "type": "למכירה",
+        "price": 4772541
+    },
+    {
+        "id": 58,
+        "rooms": 5,
+        "size": 129,
+        "city": "Ashdod",
+        "type": "למכירה",
+        "price": 5369916
+    },
+    {
+        "id": 59,
+        "rooms": 3,
+        "size": 89,
+        "city": "Rishon LeZion",
+        "type": "למכירה",
+        "price": 4804196
+    },
+    {
+        "id": 60,
+        "rooms": 4,
+        "size": 100,
+        "city": "Rishon LeZion",
+        "type": "למכירה",
+        "price": 5390575
+    },
+    {
+        "id": 61,
+        "rooms": 5,
+        "size": 121,
+        "city": "Rishon LeZion",
+        "type": "למכירה",
+        "price": 6070331
+    },
+    {
+        "id": 62,
+        "rooms": 3,
+        "size": 83,
+        "city": "Petah Tikva",
+        "type": "למכירה",
+        "price": 4220720
+    },
+    {
+        "id": 63,
+        "rooms": 4,
+        "size": 113,
+        "city": "Petah Tikva",
+        "type": "למכירה",
+        "price": 5153790
+    },
+    {
+        "id": 64,
+        "rooms": 5,
+        "size": 136,
+        "city": "Petah Tikva",
+        "type": "למכירה",
+        "price": 5815096
+    },
+    {
+        "id": 65,
+        "rooms": 3,
+        "size": 93,
+        "city": "Beer Sheva",
+        "type": "למכירה",
+        "price": 3098816
+    },
+    {
+        "id": 66,
+        "rooms": 4,
+        "size": 100,
+        "city": "Beer Sheva",
+        "type": "למכירה",
+        "price": 3553100
+    },
+    {
+        "id": 67,
+        "rooms": 5,
+        "size": 123,
+        "city": "Beer Sheva",
+        "type": "למכירה",
+        "price": 4323133
+    },
+    {
+        "id": 68,
+        "rooms": 3,
+        "size": 80,
+        "city": "Netanya",
+        "type": "למכירה",
+        "price": 4332274
+    },
+    {
+        "id": 69,
+        "rooms": 4,
+        "size": 101,
+        "city": "Netanya",
+        "type": "למכירה",
+        "price": 4960497
+    },
+    {
+        "id": 70,
+        "rooms": 5,
+        "size": 130,
+        "city": "Netanya",
+        "type": "למכירה",
+        "price": 5722297
+    },
+    {
+        "id": 71,
+        "rooms": 2,
+        "size": 58,
+        "city": "Ashdod",
+        "type": "להשכרה",
+        "price": 7139
+    },
+    {
+        "id": 72,
+        "rooms": 3,
+        "size": 74,
+        "city": "Ashdod",
+        "type": "להשכרה",
+        "price": 8863
+    },
+    {
+        "id": 73,
+        "rooms": 4,
+        "size": 86,
+        "city": "Ashdod",
+        "type": "להשכרה",
+        "price": 10731
+    },
+    {
+        "id": 74,
+        "rooms": 2,
+        "size": 48,
+        "city": "Rishon LeZion",
+        "type": "להשכרה",
+        "price": 7915
+    },
+    {
+        "id": 75,
+        "rooms": 3,
+        "size": 74,
+        "city": "Rishon LeZion",
+        "type": "להשכרה",
+        "price": 10440
+    },
+    {
+        "id": 76,
+        "rooms": 4,
+        "size": 95,
+        "city": "Rishon LeZion",
+        "type": "להשכרה",
+        "price": 12423
+    },
+    {
+        "id": 77,
+        "rooms": 2,
+        "size": 45,
+        "city": "Petah Tikva",
+        "type": "להשכרה",
+        "price": 7590
+    },
+    {
+        "id": 78,
+        "rooms": 3,
+        "size": 74,
+        "city": "Petah Tikva",
+        "type": "להשכרה",
+        "price": 9551
+    },
+    {
+        "id": 79,
+        "rooms": 4,
+        "size": 98,
+        "city": "Petah Tikva",
+        "type": "להשכרה",
+        "price": 11919
+    },
+    {
+        "id": 80,
+        "rooms": 2,
+        "size": 49,
+        "city": "Beer Sheva",
+        "type": "להשכרה",
+        "price": 5360
+    },
+    {
+        "id": 81,
+        "rooms": 3,
+        "size": 79,
+        "city": "Beer Sheva",
+        "type": "להשכרה",
+        "price": 7686
+    },
+    {
+        "id": 82,
+        "rooms": 4,
+        "size": 89,
+        "city": "Beer Sheva",
+        "type": "להשכרה",
+        "price": 9513
+    },
+    {
+        "id": 83,
+        "rooms": 2,
+        "size": 47,
+        "city": "Netanya",
+        "type": "להשכרה",
+        "price": 7687
+    },
+    {
+        "id": 84,
+        "rooms": 3,
+        "size": 79,
+        "city": "Netanya",
+        "type": "להשכרה",
+        "price": 10034
+    },
+    {
+        "id": 85,
+        "rooms": 4,
+        "size": 97,
+        "city": "Netanya",
+        "type": "להשכרה",
+        "price": 11528
+    }
+]

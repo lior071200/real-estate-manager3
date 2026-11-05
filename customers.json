@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "יוסי כהן",
+        "phone": "050-1234567",
+        "budget": 3500000,
+        "preferredCity": "Tel Aviv",
+        "minRooms": 3
+    },
+    {
+        "id": 2,
+        "name": "רונית לוי",
+        "phone": "052-7654321",
+        "budget": 8000,
+        "preferredCity": "Ramat Gan",
+        "minRooms": 3
+    },
+    {
+        "id": 3,
+        "name": "אבי מזרחי",
+        "phone": "054-2223344",
+        "budget": 4200000,
+        "preferredCity": "Tel Aviv",
+        "minRooms": 4
+    },
+    {
+        "id": 4,
+        "name": "שירה אברהם",
+        "phone": "053-9988776",
+        "budget": 2800000,
+        "preferredCity": "Jerusalem",
+        "minRooms": 3
+    },
+    {
+        "id": 5,
+        "name": "משה פרץ",
+        "phone": "050-5566778",
+        "budget": 6500,
+        "preferredCity": "Haifa",
+        "minRooms": 2
+    },
+    {
+        "id": 6,
+        "name": "נועה שלום",
+        "phone": "052-1122334",
+        "budget": 3900000,
+        "preferredCity": "Jerusalem",
+        "minRooms": 4
+    },
+    {
+        "id": 7,
+        "name": "עידן ברק",
+        "phone": "054-8899001",
+        "budget": 9500,
+        "preferredCity": "Tel Aviv",
+        "minRooms": 2
+    },
+    {
+        "id": 8,
+        "name": "יצחק",
+        "phone": "0567889008",
+        "budget": 8900000,
+        "preferredCity": "Haifa",
+        "minRooms": 3
+    },
+    {
+        "id": 9,
+        "name": "מיטל דהן",
+        "phone": "0543387780",
+        "budget": 8900,
+        "preferredCity": "Haifa",
+        "minRooms": 5
+    },
+    {
+        "id": 10,
+        "name": "שמעון שליו",
+        "phone": "0546678879",
+        "budget": 7800,
+        "preferredCity": "Ramat Gan",
+        "minRooms": 5,
+        "createdAt": "2026-09-11T07:37:03.286Z"
+    },
+    {
+        "id": 11,
+        "name": "שולה ליבנבראון",
+        "phone": "0546678876",
+        "budget": 70000,
+        "preferredCity": "Haifa",
+        "minRooms": 5,
+        "createdAt": "2026-09-14T10:02:31.856Z"
+    }
+]

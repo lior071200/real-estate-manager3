@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "address": "הרצל 12",
+        "city": "Tel Aviv",
+        "rooms": 3,
+        "size": 85,
+        "type": "למכירה",
+        "price": 3200000,
+        "agent": "דוד לוי",
+        "status": "זמין"
+    },
+    {
+        "id": 2,
+        "address": "ז'בוטינסקי 45",
+        "city": "Ramat Gan",
+        "rooms": 4,
+        "size": 105,
+        "type": "להשכרה",
+        "price": 7500,
+        "agent": "מיכל כהן",
+        "status": "זמין"
+    },
+    {
+        "id": 3,
+        "address": "וייצמן 20",
+        "city": "Jerusalem",
+        "rooms": 4,
+        "size": 95,
+        "type": "למכירה",
+        "price": 4535218,
+        "agent": "4ע\"ו",
+        "status": "זמין"
+    },
+    {
+        "id": 5,
+        "address": "ביאליק 47",
+        "city": "Tel Aviv",
+        "rooms": 4,
+        "size": 63,
+        "type": "למכירה",
+        "price": 5414501,
+        "agent": "עידן שמעוני",
+        "status": "זמין",
+        "createdAt": "2026-09-09T08:25:21.405Z"
+    },
+    {
+        "id": 6,
+        "address": "שפירא 83",
+        "city": "Jerusalem",
+        "rooms": 5,
+        "size": 88,
+        "type": "למכירה",
+        "price": 4649413,
+        "agent": "יוסף אוחיון",
+        "status": "זמין",
+        "createdAt": "2026-09-09T09:05:41.236Z"
+    },
+    {
+        "id": 7,
+        "address": "מלך יויכין",
+        "city": "Haifa",
+        "rooms": 5,
+        "size": 73,
+        "type": "להשכרה",
+        "price": 7815,
+        "agent": "שליו יפה",
+        "status": "זמין",
+        "createdAt": "2026-09-11T07:35:38.883Z"
+    },
+    {
+        "id": 8,
+        "address": "אחשוורוש 89",
+        "city": "Haifa",
+        "rooms": 5,
+        "size": 78,
+        "type": "להשכרה",
+        "price": 7947,
+        "agent": "אילד שביט",
+        "status": "זמין",
+        "createdAt": "2026-09-11T07:39:40.682Z"
+    },
+    {
+        "id": 9,
+        "address": "שליו צבי65",
+        "city": "Tel Aviv",
+        "rooms": 5,
+        "size": 97,
+        "type": "להשכרה",
+        "price": 11689,
+        "agent": "עידו שירן",
+        "status": "זמין",
+        "createdAt": "2026-09-14T10:01:05.615Z",
+        "priceHistory": [
+            {
+                "price": 11689,
+                "date": "2026-09-14T10:01:05.615Z"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "address": "הרצל 33",
+        "city": "Tel Aviv",
+        "rooms": 4,
+        "size": 150,
+        "type": "להשכרה",
+        "price": 13227,
+        "agent": "ירון שליו",
+        "status": "זמין",
+        "createdAt": "2026-09-28T17:29:06.891Z",
+        "priceHistory": [
+            {
+                "price": 13227,
+                "date": "2026-09-28T17:29:06.891Z"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "address": "דיזנגוף 100",
+        "city": "Tel Aviv",
+        "rooms": 3,
+        "size": 80,
+        "type": "למכירה",
+        "price": 2900000,
+        "agent": "ישראל ישראלי",
+        "status": "זמין",
+        "createdAt": "2026-09-29T10:02:43.824Z",
+        "priceHistory": [
+            {
+                "price": 2900000,
+                "date": "2026-09-29T10:02:43.824Z"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "address": "דיזנגוף 100",
+        "city": "Tel Aviv",
+        "rooms": 3,
+        "size": 80,
+        "type": "למכירה",
+        "price": 2900000,
+        "agent": "ישראל ישראלי",
+        "status": "זמין",
+        "createdAt": "2026-09-29T10:53:58.848Z",
+        "priceHistory": [
+            {
+                "price": 2900000,
+                "date": "2026-09-29T10:53:58.848Z"
+            }
+        ]
+    }
+]
